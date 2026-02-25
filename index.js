@@ -1,7 +1,7 @@
 // main file jangan dihapus anjir
 
 //import 
-import express fro5m "express";
+import express from "express";
 import path from "path";
 
 //inisialisasi express
